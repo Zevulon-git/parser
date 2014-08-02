@@ -6,4 +6,4 @@
  * Time: 9:48 PM
  */
 
-echo 'Some text';
+echo 'Updated';
